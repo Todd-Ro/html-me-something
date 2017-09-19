@@ -1,0 +1,24 @@
+p {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-top: .625em;
+    padding-right: .75em;
+    padding-bottom: .625em;
+    padding-left: .75em;
+} 
+
+.section {
+    font-weight: bold;
+}
+
+#photoCaption {
+    font-style: italic;
+}
+
+body {
+    border: 2px dotted #3776FF;
+}
+    
+    
